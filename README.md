@@ -36,7 +36,7 @@ Build the kernel following the instruction listed in this [tutorial](https://bal
 
 [more details explaining the process in the tutorial will be added soon]
 
-##### Test qemu
+### Test qemu
 Now it is time to test the emulation using qemu. Run
 ```
 build-test.sh
